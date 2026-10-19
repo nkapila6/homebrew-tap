@@ -4,23 +4,23 @@ class Beepertui < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/nkapila6/beepertui/releases/download/v0.0.9/beepertui_darwin_arm64.tar.gz"
-      sha256 "88ba4c6e549cb5f526c40112f64646676ecb0a224821652bcfc3605e42196d1a"
+      url "https://github.com/nkapila6/beepertui/releases/download/v0.0.10/beepertui_darwin_arm64.tar.gz"
+      sha256 "491162f1cac67e8c72ef608e8cc1f1cbcbe1d3ebded8a63a12a1f0151e883c60"
     end
     on_intel do
-      url "https://github.com/nkapila6/beepertui/releases/download/v0.0.9/beepertui_darwin_amd64.tar.gz"
-      sha256 "8be1f21a6df2c5527cdd6ab2105d268181d4a082a530e49f6824fea63fdd84c3"
+      url "https://github.com/nkapila6/beepertui/releases/download/v0.0.10/beepertui_darwin_amd64.tar.gz"
+      sha256 "f68b4380a7a168d69b6c537014fdd90b4a9b683d08f111a870deeb97ef451725"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/nkapila6/beepertui/releases/download/v0.0.9/beepertui_linux_arm64.tar.gz"
-      sha256 "5b8de128a2a9ee253d041cbf219a8c4473d85500d9d9cdb752a1cb9e314c394a"
+      url "https://github.com/nkapila6/beepertui/releases/download/v0.0.10/beepertui_linux_arm64.tar.gz"
+      sha256 "3c2ace89c8ed38ff3f9abcfcdf76af57428b0c0094fd6d3f01c4308e1dec3642"
     end
     on_intel do
-      url "https://github.com/nkapila6/beepertui/releases/download/v0.0.9/beepertui_linux_amd64.tar.gz"
-      sha256 "dc141338f4cf841b9e4e16c9b4347ab03274abfd00891a72f1d720bed9cbba9f"
+      url "https://github.com/nkapila6/beepertui/releases/download/v0.0.10/beepertui_linux_amd64.tar.gz"
+      sha256 "2a3423d9c1fe83c99fd15691a05519d10db38ec137e097146ac9aa85d5aa895f"
     end
   end
 
